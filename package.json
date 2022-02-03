@@ -1,0 +1,23 @@
+{
+  "name": "mailinglist_tuts",
+  "version": "1.0.0",
+  "description": "subscribe to newsletter tutorials",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseph-01/mailinglist_tuts.git"
+  },
+  "author": "softjoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joseph-01/mailinglist_tuts/issues"
+  },
+  "homepage": "https://github.com/Joseph-01/mailinglist_tuts#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
